@@ -61,6 +61,12 @@ header > div{
     margin-inline: auto;
 }
 
+header button{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
 header div div{
     display: flex;
     align-items: center;
